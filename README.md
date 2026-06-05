@@ -4,13 +4,16 @@
 
 [<img align='right' src="https://github.com/yumiaura/yumiaura/raw/main/images/cat.gif" width="25%" alt="cat">](https://t.me/inversia89)
 
-Hi there 👋
-- 🤖 I build Telegram bots & blockchain integrations
-- 🔗 Working with TON, payments & Web3
-- 🛠️ TypeScript is my main language
-- 💬 Ask me about anything
-- 📫 How to reach me: Telegram ☝️
-- ⚡ Fun fact: if it can be automated — it will be
+# 👋 Hey, I'm Rostislav!
+
+I'm a **Telegram bot developer** 🤖 and **Web3 enthusiast** ⛓️  
+I build bots for payments, blockchain integrations, and automation.  
+My main stack is **TypeScript** and **TON** ecosystem.
+
+I'm always open to **collaboration** and interesting ideas 💡  
+Feel free to reach me on **Telegram** — link above ☝️
+
+⭐ Feel free to **follow me** — I'd really appreciate your support!
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

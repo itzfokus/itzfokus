@@ -33,6 +33,7 @@ Feel free to reach me on **Telegram** — link above ☝️
 <!---line break---->
 
 <h2 align="center">My stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>

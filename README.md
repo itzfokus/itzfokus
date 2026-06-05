@@ -53,4 +53,4 @@ Feel free to reach me on **Telegram** — link above ☝️
    <i>Don't waste time — get back to work.</i>
 </p>
 
-###### Check my repos 👉 [repositories](https://github.com/itzfokus?tab=repositories)!
+###### Check my repos: [repositories](https://github.com/itzfokus?tab=repositories)!

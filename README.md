@@ -4,11 +4,11 @@
 
 <br>
 
-[<img align='right' src="https://github.com/yumiaura/yumiaura/raw/main/images/cat.gif" width="25%" alt="cat">](https://t.me/inversia89)
-
 # 👋 Hey, I'm Rostislav!
 
 <br>
+
+[<img align='right' src="https://github.com/yumiaura/yumiaura/raw/main/images/cat.gif" width="25%" alt="cat">](https://t.me/inversia89)
 
 I'm a **Telegram bot developer** 🤖 and **Web3 enthusiast** ⛓️
 
@@ -32,7 +32,7 @@ Feel free to reach me on **Telegram** — link above ☝️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---line break---->
 
-<h2 align="center">My stack 🛠️</h2>
+<h2 align="center">My stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
